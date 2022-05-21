@@ -1,0 +1,323 @@
+#EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道 ,CCTV1
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1CCTV2.png tvg-name=CCTV2 group-title=央视频道 ,CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1CCTV3.png tvg-name=CCTV3 group-title=央视频道 ,CCTV3
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1CCTV4.png tvg-name=CCTV4 group-title=央视频道 ,CCTV4
+http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
+#EXTINF:-1CCTV4K.png tvg-name=CCTV4K group-title=央视频道 ,CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1CCTV5.png tvg-name=CCTV5 group-title=央视频道 ,CCTV5
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1CCTV5+.png tvg-name=CCTV5+ group-title=央视频道 ,CCTV5+
+http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1CCTV6.png tvg-name=CCTV6 group-title=央视频道 ,CCTV6
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1CCTV7.png tvg-name=CCTV7 group-title=央视频道 ,CCTV7
+http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1CCTV8.png tvg-name=CCTV8 group-title=央视频道 ,CCTV8
+http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1CCTV9.png tvg-name=CCTV9 group-title=央视频道 ,CCTV9
+http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1CCTV10.png tvg-name=CCTV10 group-title=央视频道 ,CCTV10
+http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1CCTV11.png tvg-name=CCTV11 group-title=央视频道 ,CCTV11
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1CCTV12.png tvg-name=CCTV12 group-title=央视频道 ,CCTV12
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1CCTV13.png tvg-name=CCTV13 group-title=央视频道 ,CCTV13
+http://125.210.152.19:9090/live/hzgq-cctvnewsgq-h264.m3u8
+#EXTINF:-1CCTV14.png tvg-name=CCTV14 group-title=央视频道 ,CCTV14
+http://117.148.179.182/TVOD/88888888/224/3221231648/index.m3u8
+#EXTINF:-1CCTV15.png tvg-name=CCTV15 group-title=央视频道 ,CCTV15
+http://117.148.179.169/TVOD/88888888/224/3221231693/index.m3u8
+#EXTINF:-1CCTV16.png tvg-name=CCTV16 group-title=央视频道 ,CCTV16
+http://112.25.47.24/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+#EXTINF:-1CCTV17.png tvg-name=CCTV17 group-title=央视频道 ,CCTV17
+http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1纯享4K.png tvg-name=纯享4K group-title=央视频道 ,纯享4K
+http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+
+
+#EXTINF:-1天津卫视.png tvg-name=天津卫视 group-title=地方频道 ,天津卫视
+http://140.207.241.3:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1吉林卫视.png tvg-name=吉林卫视 group-title=地方频道 ,吉林卫视
+http://117.169.120.140:8080/live/jilinstv/.m3u8
+#EXTINF:-1江西卫视.png tvg-name=江西卫视 group-title=地方频道 ,江西卫视
+http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1北京卫视.png tvg-name=北京卫视 group-title=地方频道 ,北京卫视
+http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+#EXTINF:-1广东卫视.png tvg-name=广东卫视 group-title=地方频道 ,广东卫视
+http://140.207.241.3:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1宁夏卫视.png tvg-name=宁夏卫视 group-title=地方频道 ,宁夏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1湖南卫视.png tvg-name=湖南卫视 group-title=地方频道 ,湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1东方卫视.png tvg-name=东方卫视 group-title=地方频道 ,东方卫视
+http://117.148.179.167/TVOD/88888888/224/3221231450/index.m3u8
+#EXTINF:-1湖北卫视.png tvg-name=湖北卫视 group-title=地方频道 ,湖北卫视
+http://140.207.241.3:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1安徽卫视.png tvg-name=安徽卫视 group-title=地方频道 ,安徽卫视
+http://117.148.179.177/TVOD/88888888/224/3221230215/index.m3u8
+#EXTINF:-1甘肃卫视.png tvg-name=甘肃卫视 group-title=地方频道 ,甘肃卫视
+http://117.169.120.140:8080/live/gansustv/.m3u8
+#EXTINF:-1江苏卫视.png tvg-name=江苏卫视 group-title=地方频道 ,江苏卫视
+http://140.207.241.3:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1山东卫视.png tvg-name=山东卫视 group-title=地方频道 ,山东卫视
+http://140.207.241.3:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1四川卫视.png tvg-name=四川卫视 group-title=地方频道 ,四川卫视
+http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
+#EXTINF:-1黑龙江卫视.png tvg-name=黑龙江卫视 group-title=地方频道 ,黑龙江卫视
+http://117.148.179.162/TVOD/88888888/224/3221231520/index.m3u8
+#EXTINF:-1辽宁卫视.png tvg-name=辽宁卫视 group-title=地方频道 ,辽宁卫视
+http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1山西卫视.png tvg-name=山西卫视 group-title=地方频道 ,山西卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+#EXTINF:-1贵州卫视.png tvg-name=贵州卫视 group-title=地方频道 ,贵州卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gzws/1300000/mnf.m3u8
+#EXTINF:-1广西卫视.png tvg-name=广西卫视 group-title=地方频道 ,广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1浙江卫视.png tvg-name=浙江卫视 group-title=地方频道 ,浙江卫视
+http://140.207.241.3:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1内蒙古卫视.png tvg-name=内蒙古卫视 group-title=地方频道 ,内蒙古卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+#EXTINF:-1重庆卫视.png tvg-name=重庆卫视 group-title=地方频道 ,重庆卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1青海卫视.png tvg-name=青海卫视 group-title=地方频道 ,青海卫视
+http://125.210.152.19:9090/live/hszx-qhtv-h264.m3u8
+#EXTINF:-1河南卫视.png tvg-name=河南卫视 group-title=地方频道 ,河南卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
+#EXTINF:-1海南卫视.png tvg-name=海南卫视 group-title=地方频道 ,海南卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/lyws/1300000/mnf.m3u8
+#EXTINF:-1厦门卫视.png tvg-name=厦门卫视 group-title=地方频道 ,厦门卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1河北卫视.png tvg-name=河北卫视 group-title=地方频道 ,河北卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hbws/1300000/mnf.m3u8
+#EXTINF:-1陕西卫视.png tvg-name=陕西卫视 group-title=地方频道 ,陕西卫视
+http://125.210.152.19:9090/live/hszx-shanxitv-h264.m3u8
+#EXTINF:-1东南卫视.png tvg-name=东南卫视 group-title=地方频道 ,东南卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8
+#EXTINF:-1新疆卫视.png tvg-name=新疆卫视 group-title=地方频道 ,新疆卫视
+http://125.210.152.19:9090/live/hszx-xjtv-h264.m3u8
+#EXTINF:-1西藏卫视.png tvg-name=西藏卫视 group-title=地方频道 ,西藏卫视
+http://125.210.152.19:9090/live/hszx-xztv-h264.m3u8
+#EXTINF:-1深圳卫视.png tvg-name=深圳卫视 group-title=地方频道 ,深圳卫视
+http://140.207.241.3:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1三沙卫视.png tvg-name=三沙卫视 group-title=地方频道 ,三沙卫视
+http://125.210.152.19:9090/live/hzgq-ssws-h264.m3u8
+#EXTINF:-1兵团卫视.png tvg-name=兵团卫视 group-title=地方频道 ,兵团卫视
+http://125.210.152.19:9090/live/hszx-bttv-h264.m3u8
+#EXTINF:-1康巴卫视.png tvg-name=康巴卫视 group-title=地方频道 ,康巴卫视
+http://112.25.47.24/gitv_live/G_KANGBA/G_KANGBA.m3u8
+#EXTINF:-1云南卫视.png tvg-name=云南卫视 group-title=地方频道 ,云南卫视
+http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
+#EXTINF:-1海峡卫视.png tvg-name=海峡卫视 group-title=地方频道 ,海峡卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
+#EXTINF:-1旅游卫视.png tvg-name=旅游卫视 group-title=地方频道 ,旅游卫视
+http://111.63.117.13:6060/030000001000/LYWS/LYWS.m3u8
+#EXTINF:-1内蒙卫视.png tvg-name=内蒙卫视 group-title=地方频道 ,内蒙卫视
+http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
+#EXTINF:-1人间卫视.png tvg-name=人间卫视 group-title=地方频道 ,人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
+#EXTINF:-1凤凰资讯.png tvg-name=凤凰资讯 group-title=港澳频道 ,凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1凤凰中文.png tvg-name=凤凰中文 group-title=港澳频道 ,凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1NHKWorld.png tvg-name=NHKWorld group-title=港澳频道 ,NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+
+#EXTINF:-1四海钓鱼.png tvg-name=四海钓鱼 group-title=体育频道 ,四海钓鱼
+http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+#EXTINF:-1高尔夫网球.png tvg-name=高尔夫网球 group-title=体育频道 ,高尔夫网球
+http://117.148.179.160/TVOD/88888888/224/3221231619/index.m3u8
+#EXTINF:-1弈坛春秋.png tvg-name=弈坛春秋 group-title=体育频道 ,弈坛春秋
+http://112.25.47.24/gitv_live/G_YITANCQ/G_YITANCQ.m3u8
+#EXTINF:-1快乐垂钓.png tvg-name=快乐垂钓 group-title=体育频道 ,快乐垂钓
+http://39.135.55.105:6610/PLTV/88888888/224/3221226940/index.m3u8?servicetype=1
+#EXTINF:-1哒啵赛事.png tvg-name=哒啵赛事 group-title=体育频道 ,哒啵赛事
+http://39.135.55.105:6610/PLTV/88888888/224/3221226680/index.m3u8?servicetype=1
+#EXTINF:-1SiTV极速汽车.png tvg-name=SiTV极速汽车 group-title=体育频道 ,SiTV极速汽车
+http://39.135.55.105:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1
+#EXTINF:-1百视通电竞.png tvg-name=百视通电竞 group-title=体育频道 ,百视通电竞
+http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
+#EXTINF:-1风云足球.png tvg-name=风云足球 group-title=体育频道 ,风云足球
+http://117.148.179.137/TVOD/88888888/224/3221231547/index.m3u8
+#EXTINF:-1海看电竞.png tvg-name=海看电竞 group-title=体育频道 ,海看电竞
+http://39.136.48.8:8089/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1山东体育.png tvg-name=山东体育 group-title=体育频道 ,山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1新视觉.png tvg-name=新视觉 group-title=体育频道 ,新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1劲爆体育.png tvg-name=劲爆体育 group-title=体育频道 ,劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+#EXTINF:-1魅力足球.png tvg-name=魅力足球 group-title=体育频道 ,魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1BesTV体育3.png tvg-name=BesTV体育3 group-title=体育频道 ,BesTV体育3
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1BesTV体育1.png tvg-name=BesTV体育1 group-title= ,BesTV Sport 1
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1BesTV体育2.png tvg-name=BesTV体育2 group-title= ,BesTV Sport 2
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1BesTV体育4.png tvg-name=BesTV体育4 group-title= ,BesTV Sport 4
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1超级体育.png tvg-name=超级体育 group-title=体育频道 ,超级体育
+http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+#EXTINF:-1精品体育.png tvg-name=精品体育 group-title=体育频道 ,精品体育
+http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+#EXTINF:-1武搏世界.png tvg-name=武搏世界 group-title=体育频道 ,武搏世界
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1智林体育.png tvg-name=智林体育 group-title=体育频道 ,智林体育
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1游戏风云.png tvg-name=游戏风云 group-title=游戏频道 ,游戏风云
+http://112.25.47.24/gitv_live/G_YOUXIFY/G_YOUXIFY.m3u8
+
+
+
+#EXTINF:-1CHC动作电影.png tvg-name=CHC动作电影 group-title=电影频道 ,CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1NewTV精品电影.png tvg-name=NewTV精品电影 group-title=电影频道 ,NewTV精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1黑莓电影.png tvg-name=黑莓电影 group-title=电影频道 ,黑莓电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+#EXTINF:-1NewTV超级电影.png tvg-name=NewTV超级电影 group-title=电影频道 ,NewTV超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1百视通剧集4.png tvg-name=百视通剧集4 group-title=影视频道 ,百视通剧集4
+http://39.135.55.105:6610/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
+#EXTINF:-1百视通电影3.png tvg-name=百视通电影3 group-title=影视频道 ,百视通电影3
+http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
+#EXTINF:-1百视通电影1.png tvg-name=百视通电影1 group-title=影视频道 ,百视通电影1
+http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
+#EXTINF:-1百视通剧集2.png tvg-name=百视通剧集2 group-title= ,百视通剧集2
+http://39.135.55.105:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
+#EXTINF:-1百视通电影4.png tvg-name=百视通电影4 group-title= ,百视通电影4
+http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
+#EXTINF:-1百视通剧集1.png tvg-name=百视通剧集1 group-title= ,百视通剧集1
+http://39.135.55.105:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+#EXTINF:-1百视通电影2.png tvg-name=百视通电影2 group-title= ,百视通电影2
+http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+#EXTINF:-1CHC高清电影.png tvg-name=CHC高清电影 group-title=影视频道 ,CHC高清电影
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+
+#EXTINF:-1纪实人文.png tvg-name=纪实人文 group-title=记录频道 ,纪实人文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1金鹰纪实.png tvg-name=金鹰纪实 group-title=记录频道 ,金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+#EXTINF:-1上海纪实.png tvg-name=上海纪实 group-title=记录频道 ,上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1纪实人文(备).png tvg-name=纪实人文(备) group-title= ,纪实人文(备)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1北京纪实.png tvg-name=北京纪实 group-title=记录频道 ,北京纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1陶瓷.png tvg-name=陶瓷 group-title=记录频道 ,陶瓷
+http://112.25.47.24/gitv_live/G_TAOCI/G_TAOCI.m3u8
+#EXTINF:-1全纪实.png tvg-name=全纪实 group-title=记录频道 ,全纪实
+http://112.25.47.24/gitv_live/G_QUANJISHI/G_QUANJISHI.m3u8
+#EXTINF:-1发现之旅.png tvg-name=发现之旅 group-title=记录频道 ,发现之旅
+http://112.25.47.24/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
+#EXTINF:-1上视外语.png tvg-name=上视外语 group-title=记录频道 ,上视外语
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1求索生活.png tvg-name=求索生活 group-title=记录频道 ,求索生活
+http://111.11.123.49:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1求索动物.png tvg-name=求索动物 group-title=记录频道 ,求索动物
+http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1求索科学.png tvg-name=求索科学 group-title=记录频道 ,求索科学
+http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1江西陶瓷.png tvg-name=江西陶瓷 group-title=记录频道 ,江西陶瓷
+http://39.135.55.105:6610/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
+#EXTINF:-1洛阳文旅频道.png tvg-name=洛阳文旅频道 group-title=记录频道 ,洛阳文旅频道
+http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
+#EXTINF:-1iHOT爱美食.png tvg-name=iHOT爱美食 group-title=记录频道 ,iHOT爱美食
+http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1LoveNature.png tvg-name=LoveNature group-title=记录频道 ,LoveNature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1Discovery.png tvg-name=Discovery group-title=记录频道 ,Discovery
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1Discovery.png tvg-name=Discovery group-title=记录频道 ,Discovery
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+
+#EXTINF:-1第一财经.png tvg-name=第一财经 group-title=财经频道 ,第一财经
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1东方财经频道.png tvg-name=东方财经频道 group-title=财经频道 ,东方财经频道
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1点掌财经HD.png tvg-name=点掌财经HD group-title=财经频道 ,点掌财经HD
+http://bdlive.aniu.tv/live/anzb.m3u8
+
+#EXTINF:-1影视剧场.png tvg-name=影视剧场 group-title=影视频道 ,影视剧场
+http://112.25.47.24/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
+#EXTINF:-1芒果TV.png tvg-name=芒果TV group-title=影视频道 ,芒果TV
+http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1欧美影院.png tvg-name=欧美影院 group-title=影视频道 ,欧美影院
+http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1海看热播.png tvg-name=海看热播 group-title=影视频道 ,海看热播
+http://39.136.48.99:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1热播精选.png tvg-name=热播精选 group-title=影视频道 ,热播精选
+http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
+#EXTINF:-1MIGU试胆大会.png tvg-name=MIGU试胆大会 group-title=影视频道 ,MIGU试胆大会
+http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1MIGU盗墓方法论.png tvg-name=MIGU盗墓方法论 group-title=影视频道 ,MIGU盗墓方法论
+http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
+
+
+
+
+#EXTINF:-1CNC中文.png tvg-name=CNC中文 group-title=外文频道 ,CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1日本全天新闻.png tvg-name=日本全天新闻 group-title=外文频道 ,日本全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1American.png tvg-name=American group-title=外文频道 ,American
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1CNC英文.png tvg-name=CNC英文 group-title=外文频道 ,CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1NBC.png tvg-name=NBC group-title=外文频道 ,NBC
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1CNN.png tvg-name=CNN group-title=外文频道 ,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1BigLife.png tvg-name=BigLife group-title=外文频道 ,BigLife
+http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1ABC.png tvg-name=ABC group-title=外文频道 ,ABC
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1TLC.png tvg-name=TLC group-title=外文频道 ,TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1TV5.png tvg-name=TV5 group-title=外文频道 ,TV5
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1Asian.png tvg-name=Asian group-title=外文频道 ,Asian
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1Animal.png tvg-name=Animal group-title=外文频道 ,Animal
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1BBC.png tvg-name=BBC group-title=外文频道 ,BBC
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1FOX NewsNOW.png tvg-name=FOX NewsNOW group-title=外文频道 ,FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1杭州明珠.png tvg-name=杭州明珠 group-title=直播中国 ,杭州明珠
+http://117.148.179.179/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1上海这一刻:魔都眼.png tvg-name=上海这一刻:魔都眼 group-title=直播中国 ,上海这一刻:魔都眼
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1Bloomberg.png tvg-name=Bloomberg group-title= ,Bloomberg
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1上海实时路况:卢浦大桥.png tvg-name=上海实时路况:卢浦大桥 group-title=直播中国 ,上海实时路况:卢浦大桥
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng1.m3u8
+#EXTINF:-1上海这一刻:陆家嘴.png tvg-name=上海这一刻:陆家嘴 group-title=直播中国 ,上海这一刻:陆家嘴
+http://bililive.kksmg.com/hls/sdi70/playlist.m3u8
+#EXTINF:-1张家界天门山云梦仙顶.png tvg-name=张家界天门山云梦仙顶 group-title=直播中国 ,张家界天门山云梦仙顶
+https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
+#EXTINF:-1上海实时路况:南北高架延安路高架交汇处.png tvg-name=上海实时路况:南北高架延安路高架交汇处 group-title=直播中国 ,上海实时路况:南北高架延安路高架交汇处
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng3.m3u8
+#EXTINF:-1广西玉林大容山莲花山顶.png tvg-name=广西玉林大容山莲花山顶 group-title=直播中国 ,广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1上海实时路况:南北高架共和新路.png tvg-name=上海实时路况:南北高架共和新路 group-title=直播中国 ,上海实时路况:南北高架共和新路
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng4.m3u8
+#EXTINF:-1八里沟风景区桃花湾瀑布.png tvg-name=八里沟风景区桃花湾瀑布 group-title=直播中国 ,八里沟风景区桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1上海实时路况:延东立交.png tvg-name=上海实时路况:延东立交 group-title=直播中国 ,上海实时路况:延东立交
+https://09d6466c00724862f53a5aef6d25952a.livehwc3.cn/live-hw.kksmg.com/live/luzheng2.m3u8
+#EXTINF:-1天津之眼.png tvg-name=天津之眼 group-title=直播中国 ,天津之眼
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1天津海河.png tvg-name=天津海河 group-title=直播中国 ,天津海河
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
